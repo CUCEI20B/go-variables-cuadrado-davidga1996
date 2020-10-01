@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	var lado float32
+	var lado float64
 
 	fmt.Scan(&lado)
 
-	fmt.Print(lado * lado)
+	fmt.Println(lado * lado)
 }
