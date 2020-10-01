@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var lado float64
+	var lado int
 
 	fmt.Scan(&lado)
 
